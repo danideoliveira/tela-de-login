@@ -2,5 +2,7 @@
 
 Confira: https://danideoliveira.github.io/telaLogin/
 
-<img src=".img/print/home.png">
+<p align="center">
+	<img src="print/home.png">
+</p>
 
